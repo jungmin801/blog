@@ -37,7 +37,7 @@ export default (() => {
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
     return (
-      <head>ß
+      <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
