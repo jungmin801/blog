@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "무니의 포스트잇",
-    pageTitleSuffix: "개발, 여행, 일상 기록까지 정리하는 공간입니다.",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
